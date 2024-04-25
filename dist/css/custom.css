@@ -39,6 +39,10 @@ body {
   color: var(--secondary);
 }
 
+.navbar-nav {
+  flex-direction: row;
+}
+s
 #slider {
   background: url(../assets/slider-bg.svg) no-repeat center bottom;
   background-size: contain;
